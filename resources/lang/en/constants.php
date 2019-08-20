@@ -1,0 +1,27 @@
+<?php 
+return [
+        'User_Management' => 'General Employee Portal',
+        'Home' => 'Home',
+        'Create_New_User' => 'Create New User',
+        'Employee_Number' => 'Employee Number',
+        'Roles' => 'Roles',
+        'Departments' => 'Departments',
+        'Action' => 'Action',
+        'Name' => 'Name',
+        'No' => 'No',
+        'Role_Management' => 'Role Management',
+        'Profile_Image' => 'Profile Image',
+        'Back' => 'Back',
+        'errormessage' => 'There were some problems with your input.',
+        'Email' => 'Email',
+        'Department' => 'Department',
+        'Dob' => 'Dob',
+        'Password' => 'Password',
+        'Confirm_Password' => 'Confirm_Password',
+        'Role' => 'Role',
+        'Submit' => 'Submit',
+        'Edit_User' => 'Edit User',
+        'Client_Management' => 'Client Management',
+        'Create_New_Role' => 'Create New Role',
+        'Create_New_Client' => 'Create New Client'
+];
